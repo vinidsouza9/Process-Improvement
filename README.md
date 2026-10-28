@@ -1,6 +1,6 @@
-# Operations & Business Process Management — Case Studies
+# Operations & Business Process Management - Case Studies
 
-## Overview
+Website : https://vinidsouza9.github.io/Process-Improvement/
 
 This is a single-page site combining two case studies for Operations & Business Process Management graduate coursework project:
 
